@@ -1,0 +1,5 @@
+include(
+    ":presentation",
+    ":domain",
+    ":data"
+)
